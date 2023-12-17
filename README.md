@@ -27,7 +27,20 @@
 * praktikum 8 : password berlapis
   `praktikum-d8.py`
   
+* tugas 1 : dictionary
+  `231031127-muhammad fahrizard-tugas-dictionary-D.py`
+  
+* tugas 2 dan 3 : ganjil genap dan jam
+  `231031127-muhammad fahrizard-tugas ganjil genap dan jam.py`
 
+* percabangan 1 : batasan nilai
+  `231031127-MUHAMMAD FAHRIZARD-percabangan1.py`
 
+* percabangan 2 : panjang str
+  `231031127-MUHAMMAD FAHRIZARD-percabangan2.py`
 
+* percabangan 3 : batasan pendapatan
+  `231031127-MUHAMMAD FAHRIZARD-percabangan3.py`
 
+* percabangan 4 : persentasi
+  `231031127-MUHAMMAD FAHRIZARD-percabangan4.py`
