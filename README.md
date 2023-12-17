@@ -14,3 +14,12 @@
 
 * praktikum 4 : list dan tuples
   `praktikum-d4.py`
+
+* praktikum 5 : perulangan
+  `praktikum-d5.py`
+
+* praktikum 6 : 
+  `praktikum-d6.py`
+
+* praktikum 7 : 
+  `praktikum-d7.py`
