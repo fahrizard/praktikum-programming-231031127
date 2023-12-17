@@ -18,8 +18,8 @@
 * praktikum 5 : perulangan
   `praktikum-d5.py`
 
-* praktikum 6 : 
+* praktikum 6 : while true
   `praktikum-d6.py`
 
-* praktikum 7 : 
+* praktikum 7 : password
   `praktikum-d7.py`
