@@ -23,3 +23,11 @@
 
 * praktikum 7 : password
   `praktikum-d7.py`
+
+* praktikum 8 : password berlapis
+  `praktikum-d8.py`
+  
+
+
+
+
