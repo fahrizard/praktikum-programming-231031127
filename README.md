@@ -5,3 +5,6 @@
 
 * praktikum 1 : pengenalan variabel
   `praktikum-d1.py`
+
+* praktikum 2 : operator
+  `praktikum-d2.py`
